@@ -1,7 +1,7 @@
 # EXPERIMENT 1 :
 # Swapping-two-values :
-# NAME:AVINASH T
-# ROLL NO:212223230026
+# NAME: AVINASH T
+# ROLL NO: 212223230026
 # DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
 ## AIM:
 To write a python program for swapping of two values
