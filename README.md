@@ -1,14 +1,14 @@
-## EXPERIMENT 1 :
+# EXPERIMENT 1 :
 # Swapping-two-values :
 ### NAME: AVINASH T
 ### ROLL NO: 212223230026
 ### DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
-## AIM:
+### AIM:
 To write a python program for swapping of two values
-## EQUIPEMENT'S REQUIRED: 
+### EQUIPEMENT'S REQUIRED: 
 PC
 Anaconda - Python 3.7
-## ALGORITHM: 
+### ALGORITHM: 
 ### Step 1:
 Get the two values from the user
 ### Step 2: 
@@ -21,7 +21,7 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
-## PROGRAM:
+### PROGRAM:
 
 ```c
 #Program to swap two values:
@@ -34,7 +34,7 @@ End the program
 ![image](https://github.com/AVINASH05T/Swapping-two-values/assets/151514286/8c04a5f9-e935-49d6-b19a-9a05924a1b5a)
 
 
-## RESULT:
+### RESULT:
 Thus the swapping of two values are successfully executed
 
 
