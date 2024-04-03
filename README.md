@@ -1,8 +1,8 @@
-# EXPERIMENT 1 :
+## EXPERIMENT 1 :
 # Swapping-two-values :
-# NAME: AVINASH T
-# ROLL NO: 212223230026
-# DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
+### NAME: AVINASH T
+### ROLL NO: 212223230026
+### DEPARTMENT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
@@ -22,6 +22,13 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+
+```c
+#Program to swap two values:
+#Developed by: AVINASH T
+#RegisterNumber: 212223230026
+```
+
 ![image](https://github.com/AVINASH05T/Swapping-two-values/assets/151514286/fb42e139-2c89-4edb-a905-5675f9ced81b)
 
 ![image](https://github.com/AVINASH05T/Swapping-two-values/assets/151514286/8c04a5f9-e935-49d6-b19a-9a05924a1b5a)
