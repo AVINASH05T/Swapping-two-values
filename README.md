@@ -35,6 +35,7 @@ print("Swapped values are:",a,b)
 
 ![image](https://github.com/AVINASH05T/Swapping-two-values/assets/151514286/fb42e139-2c89-4edb-a905-5675f9ced81b)
 
+## OUTPUT
 ![image](https://github.com/AVINASH05T/Swapping-two-values/assets/151514286/8c04a5f9-e935-49d6-b19a-9a05924a1b5a)
 
 
