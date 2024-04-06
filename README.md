@@ -27,6 +27,10 @@ End the program
 #Program to swap two values:
 #Developed by: AVINASH T
 #RegisterNumber: 212223230026
+a=input()
+b=input()
+a,b=b,a
+print("Swapped values are:",a,b)
 ```
 
 ![image](https://github.com/AVINASH05T/Swapping-two-values/assets/151514286/fb42e139-2c89-4edb-a905-5675f9ced81b)
